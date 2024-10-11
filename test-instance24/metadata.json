@@ -1,7 +1,7 @@
 {
   "name": "test-instance24",
-  "website": "",
-  "description": "test-instance24",
-  "logo": "https://raw.githubusercontent.com/Layr-Labs/eigenlayer-cli/master/pkg/operator/config/logo.png",
-  "twitter": ""
+  "website": "https://etherscale.xyz",
+  "description": "test-instance24 is a Chain-agnostic Rollup-as-a-Service secured by the Eigen AVS ecosystem.",
+  "logo": "https://etherscale.s3.amazonaws.com/etherscale.png",
+  "twitter": "https://x.com/etherscaleapps"
 }
