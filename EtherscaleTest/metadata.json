@@ -1,0 +1,7 @@
+{
+  "name": "EtherscaleTest",
+  "website": "https://www.etherscale.xyz",
+  "description": "EtherScale is a Chain-agnostic Rollup-as-a-Service secured by the Eigen AVS ecosystem.",
+  "logo": "https://raw.githubusercontent.com/EtherScaleApps/etherscale-avs-operators-metadata/refs/heads/main/EtherscaleTest/EtherscaleTest.png",
+  "twitter": "https://www.etherscale.xyz"
+}
