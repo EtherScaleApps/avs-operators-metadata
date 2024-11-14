@@ -1,0 +1,7 @@
+{
+  "name": "etherscale-operator",
+  "website": "https://www.etherscale.xyz",
+  "description": "Etherscale Demo Operator",
+  "logo": "https://raw.githubusercontent.com/EtherScaleApps/etherscale-avs-operators-metadata/refs/heads/main/etherscale-operator/etherscale-operator.png",
+  "twitter": "https://x.com/etherscaleapps"
+}
